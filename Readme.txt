@@ -1,0 +1,1 @@
+http://www.sqlservercentral.com/articles/Cluster+Analysis/124259/
